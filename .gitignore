@@ -1,0 +1,12 @@
+# Java JDK
+.jdk/
+
+# Java build files
+backend/target/
+
+# React dependencies and build
+frontend/node_modules/
+frontend/dist/
+
+# Secrets
+.env
